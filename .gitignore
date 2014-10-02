@@ -1,0 +1,10 @@
+.sass-cache
+.tmp
+/node_modules
+PROD.jpt
+git.sh
+index.html
+globeproject.sublime-workspace
+data/pike-time-analysis.html
+data/pike-time-analysis_files
+parts/globe
